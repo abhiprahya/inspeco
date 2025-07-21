@@ -93,7 +93,6 @@ export default {
 					to: {
 						height: '0'
 					}
-				}
 				},
 				'fade-in': {
 					from: { opacity: '0', transform: 'translateY(10px)' },
